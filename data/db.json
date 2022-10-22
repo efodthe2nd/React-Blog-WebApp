@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Niqqas are in paris",
+      "author": "Haley",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Niqqas are still in Paris",
+      "author": "James",
+      "id": 2
+    },
+    {
+      "title": "The first time",
+      "body": "Ledels first time was a crazy experience",
+      "author": "Haley",
+      "id": 4
+    }
+  ]
+}
